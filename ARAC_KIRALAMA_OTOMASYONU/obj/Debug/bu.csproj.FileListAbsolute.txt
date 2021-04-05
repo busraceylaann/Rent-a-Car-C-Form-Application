@@ -1,0 +1,504 @@
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ARAC_KIRALAMA_OTOMASYONU.exe.config
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ARAC_KIRALAMA_OTOMASYONU.exe
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ARAC_KIRALAMA_OTOMASYONU.pdb
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\EnvDTE.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\stdole.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.MSXML.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.ANASAYFA.resources
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.arac_güncelleme.resources
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.arac_listesi.resources
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.Araç_kayıt.resources
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.kontrol.resources
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.KULLANICI_GİRİŞİ.resources
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.kullanıcı_kayıt_olma_formu.resources
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.marka_modelekle.resources
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.müsteri_güncelleme_formu.resources
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.müsteri_kayıt_formu.resources
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.müşteri_listesi.resources
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.personel_güncelleme_formu.resources
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.personel_yeni_kayit.resources
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.personel.resources
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.Properties.Resources.resources
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.SÖZLESME.resources
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.SİFRE_UNUTTUM.resources
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.uye_islem.resources
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\bu.csproj.GenerateResource.cache
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\bu.csproj.CoreCompileInputs.cache
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\bu.csproj.CopyComplete
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.exe
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.pdb
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\bu.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.exe.config
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.ANASAYFA.resources
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.arac_güncelleme.resources
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.arac_listesi.resources
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.Araç_kayıt.resources
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.Form1.resources
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.kontrol.resources
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.KULLANICI_GİRİŞİ.resources
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.kullanıcı_kayıt_olma_formu.resources
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.marka_modelekle.resources
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.müsteri_güncelleme_formu.resources
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.müsteri_kayıt_formu.resources
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.müşteri_listesi.resources
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.personel_güncelleme_formu.resources
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.personel_yeni_kayit.resources
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.personel.resources
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.Properties.Resources.resources
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.SÖZLESME.resources
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.SİFRE_UNUTTUM.resources
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.uye_islem.resources
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\bu.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\RdlCompile.cache
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\RdlCompile.compiled
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\bu.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.exe
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.pdb
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ARAC_KIRALAMA_OTOMASYONU.exe.config
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ARAC_KIRALAMA_OTOMASYONU.exe
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ARAC_KIRALAMA_OTOMASYONU.pdb
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\EnvDTE.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\stdole.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\EnvDTE80.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\VSLangProj.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\VSLangProj80.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\VSLangProj2.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\tr\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\tr\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Acer\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\bu.csproj.CopyComplete
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\final.mdb
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ARAC_KIRALAMA_OTOMASYONU.exe.config
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ARAC_KIRALAMA_OTOMASYONU.exe
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ARAC_KIRALAMA_OTOMASYONU.pdb
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\EnvDTE.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.Build.Framework.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\stdole.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\EnvDTE80.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.Build.Tasks.Core.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\VSLangProj.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\VSLangProj80.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Newtonsoft.Json.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\System.Threading.Tasks.Dataflow.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.MSXML.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.Build.Utilities.Core.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\VSLangProj2.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\tr\Microsoft.VisualStudio.Data.Services.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\tr\Microsoft.VisualStudio.Data.Core.resources.dll
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\bu.csprojAssemblyReference.cache
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.exe.config
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.ANASAYFA.resources
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.arac_güncelleme.resources
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.arac_listesi.resources
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.Araç_kayıt.resources
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.kontrol.resources
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.KULLANICI_GİRİŞİ.resources
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.kullanıcı_kayıt_olma_formu.resources
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.marka_modelekle.resources
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.müsteri_güncelleme_formu.resources
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.müsteri_kayıt_formu.resources
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.müşteri_listesi.resources
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.personel_güncelleme_formu.resources
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.personel_yeni_kayit.resources
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.personel.resources
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.Properties.Resources.resources
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.rapor.resources
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.SÖZLESME.resources
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.SİFRE_UNUTTUM.resources
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.uye_islem.resources
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\bu.csproj.GenerateResource.cache
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\RdlCompile.cache
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\RdlCompile.compiled
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\bu.csproj.CoreCompileInputs.cache
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\bu.csproj.CopyComplete
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.exe
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.pdb
+E:\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.Rapor2.resources
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ARAC_KIRALAMA_OTOMASYONU.exe.config
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.exe
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.pdb
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ARAC_KIRALAMA_OTOMASYONU.exe
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ARAC_KIRALAMA_OTOMASYONU.pdb
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\EnvDTE.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\stdole.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\EnvDTE80.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\VSLangProj.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\VSLangProj80.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.MSXML.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\VSLangProj2.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\EnvDTE.xml
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\EnvDTE80.xml
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\VSLangProj.xml
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\VSLangProj80.xml
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\VSLangProj2.xml
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\bu.csprojResolveAssemblyReference.cache
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\bu.csproj.ARAC_KIRALAMA_OTOMASYONU.exe.config
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.ANASAYFA.resources
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.arac_güncelleme.resources
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.arac_listesi.resources
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.Araç_kayıt.resources
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.kontrol.resources
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.KULLANICI_GİRİŞİ.resources
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.kullanıcı_kayıt_olma_formu.resources
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.marka_modelekle.resources
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.müsteri_güncelleme_formu.resources
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.müsteri_kayıt_formu.resources
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.müşteri_listesi.resources
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.personel_güncelleme_formu.resources
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.personel_yeni_kayit.resources
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.personel.resources
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.Properties.Resources.resources
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.rapor.resources
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.Rapor2.resources
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.Rapor3.resources
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.Rapor4.resources
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.SÖZLESME.resources
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.SİFRE_UNUTTUM.resources
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.uye_islem.resources
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\bu.csproj.GenerateResource.Cache
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\RdlCompile.cache
+C:\Users\CASPER\Desktop\Yeni klasör\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\RdlCompile.compiled
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\bu.csprojAssemblyReference.cache
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.deneme.resources
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.rapor.resources
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.Rapor2.resources
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.Rapor3.resources
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.Rapor4.resources
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\RdlCompile.cache
+C:\Users\BÜŞRA CEYLAN\Desktop\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\RdlCompile.compiled
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ARAC_KIRALAMA_OTOMASYONU.exe.config
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ARAC_KIRALAMA_OTOMASYONU.exe
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ARAC_KIRALAMA_OTOMASYONU.pdb
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\EnvDTE.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\stdole.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\Microsoft.MSXML.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\bu.csprojAssemblyReference.cache
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.ANASAYFA.resources
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.arac_güncelleme.resources
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.arac_listesi.resources
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.Araç_kayıt.resources
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.deneme.resources
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.kontrol.resources
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.KULLANICI_GİRİŞİ.resources
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.kullanıcı_kayıt_olma_formu.resources
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.marka_modelekle.resources
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.müsteri_güncelleme_formu.resources
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.müsteri_kayıt_formu.resources
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.müşteri_listesi.resources
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.personel_güncelleme_formu.resources
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.personel_yeni_kayit.resources
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.personel.resources
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.Properties.Resources.resources
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.rapor.resources
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.Rapor2.resources
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.Rapor3.resources
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.Rapor4.resources
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.SÖZLESME.resources
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.SİFRE_UNUTTUM.resources
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.uye_islem.resources
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\bu.csproj.GenerateResource.cache
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\RdlCompile.cache
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\RdlCompile.compiled
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\bu.csproj.CoreCompileInputs.cache
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\bu.csproj.CopyComplete
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.exe
+D:\dersler\Belgeler Lazım\projeler\ARAC_KIRALAMA_OTOMASYONU\ARAC_KIRALAMA_OTOMASYONU\obj\Debug\ARAC_KIRALAMA_OTOMASYONU.pdb
